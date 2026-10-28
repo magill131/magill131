@@ -32,7 +32,7 @@ Three deliberately broken assistants must each fail the checks, and the tests ca
 Property-based tests (Hypothesis + pytest) for a wage compliance rules engine, with a rule traceability matrix and a CI quality gate on GitHub Actions.  
 I broke the engine three ways on purpose and the tests caught each one. A CI gate fails if any rule has no tests.
 
-All 14 projects are listed at [magill131.github.io](https://magill131.github.io).
+All 16 projects are listed at [magill131.github.io](https://magill131.github.io).
 
 ## Find me
 
