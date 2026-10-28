@@ -2,7 +2,7 @@
 
 **Quality Assurance Engineer | Mobile, Web & API Testing | AI-Assisted Testing with Claude Code | Nashville, TN**
 
-Test Automation | Web, iOS & Android
+Manual & Automated Testing | Web, iOS & Android
 
 Over 3 years in QA I have covered manual and automated testing on iOS, Android and web across Dev, QA, Staging and Production. At IDEXX I built a Claude Code tool that cut a recurring testing task from about 60 minutes to under 15.
 
