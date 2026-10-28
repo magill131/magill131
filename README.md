@@ -4,9 +4,9 @@
 
 Test Automation | Web, iOS & Android
 
-Over 3 years in QA I have covered iOS, Android and web across Dev, QA, Staging and Production. At IDEXX I built a Claude Code tool that cut a recurring testing task from about 60 minutes to under 15.
+Over 3 years in QA I have covered manual and automated testing on iOS, Android and web across Dev, QA, Staging and Production. At IDEXX I built a Claude Code tool that cut a recurring testing task from about 60 minutes to under 15.
 
-The repositories here are test frameworks I built to practice that work: UI, API, performance, accessibility, contract and AI-assistant testing. Most of them run in CI on GitHub Actions.
+The repositories here are test frameworks I built to practice that work: UI, API, performance, accessibility, contract and AI-assistant testing, plus a manual test plan with test cases and bug reports. Most of them run in CI on GitHub Actions.
 
 ## Tech stack
 
