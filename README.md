@@ -1,8 +1,10 @@
 # Chris Magill
 
-Quality Assurance Engineer in Nashville, TN.
+**Quality Assurance Engineer | Mobile, Web & API Testing | AI-Assisted Testing with Claude Code | Nashville, TN**
 
-I test mobile and web apps so releases ship stable. Over 3 years in QA I have covered iOS, Android and web across Dev, QA, Staging and Production. At IDEXX I built a Claude Code tool that cut a recurring testing task from about 60 minutes to under 15.
+Test Automation | Web, iOS & Android
+
+Over 3 years in QA I have covered iOS, Android and web across Dev, QA, Staging and Production. At IDEXX I built a Claude Code tool that cut a recurring testing task from about 60 minutes to under 15.
 
 The repositories here are test frameworks I built to practice that work: UI, API, performance, accessibility, contract and AI-assistant testing. Most of them run in CI on GitHub Actions.
 
