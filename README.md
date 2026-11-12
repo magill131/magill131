@@ -6,15 +6,15 @@ Manual & Automated Testing | Web, iOS & Android
 
 Over 3 years in QA I have covered manual and automated testing on iOS, Android and web across Dev, QA, Staging and Production. At IDEXX I built a Claude Code tool that cut a recurring testing task from about 60 minutes to under 15.
 
-The repositories here are test frameworks I built to practice that work: UI, API, performance, accessibility, contract and AI-assistant testing, plus a manual test plan with test cases and bug reports. Most of them run in CI on GitHub Actions.
+The repositories here are test frameworks I built to practice that work: UI, API, performance, accessibility, contract, security, mobile layout and AI-assistant testing, plus a manual test plan with test cases and bug reports. Most of them run in CI on GitHub Actions.
 
 ## Tech stack
 
 | | |
 |---|---|
-| **Languages** | Python, JavaScript, TypeScript, SQL |
-| **Frameworks** | Selenium, Playwright, Cypress, pytest, Behave, Hypothesis |
-| **Tools** | Postman, JMeter, Docker, GitHub Actions, Jira, TestRail, LambdaTest, TestRigor, Datadog, LaunchDarkly, axe-core, Claude Code |
+| **Languages** | Python, Java, JavaScript, TypeScript, SQL |
+| **Frameworks** | Selenium, Playwright, Cypress, pytest, JUnit 5, Behave, Hypothesis |
+| **Tools** | Postman, JMeter, Docker, Maven, GitHub Actions, Jira, TestRail, LambdaTest, TestRigor, Datadog, LaunchDarkly, axe-core, Claude Code |
 
 ## Featured projects
 
@@ -34,7 +34,7 @@ Three deliberately broken assistants must each fail the checks, and the tests ca
 Property-based tests (Hypothesis + pytest) for a wage compliance rules engine, with a rule traceability matrix and a CI quality gate on GitHub Actions.  
 I broke the engine three ways on purpose and the tests caught each one. A CI gate fails if any rule has no tests.
 
-All 21 projects are listed at [magill131.github.io](https://magill131.github.io).
+All 22 projects are listed at [magill131.github.io](https://magill131.github.io).
 
 ## Find me
 
